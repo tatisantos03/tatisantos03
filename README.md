@@ -2,7 +2,7 @@
 
 Meu nome é Tatiane
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou aprendendo coisas novas
 - Utilizo esse espaço para organização e compartilhameto dos meus projetos desenvolvidos
 
